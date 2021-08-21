@@ -5,7 +5,7 @@ local function OnSlotsChanged(event)
     if event.player_index ~= nil then
         local enabled = settings.get_player_settings(event.player_index)["logistics_requests_sorted-enabled"].value
         if enabled then
-            Inventory.SortPlayerInventory(game.get_player(event.player_index))
+            Inventory.SortEntityInventory(event.entity)
         end
     end
 end
