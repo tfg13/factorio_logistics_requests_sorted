@@ -9,5 +9,5 @@
     "dependencies": [
         "base >= 1.1.17"
     ],
-    "description": "Keeps your logistics requests permanently sorted"
+    "description": "Keeps your logistics requests permanently sorted. NOTE: If adding this to a running game, make any change to your logistics requests once to trigger the initial sorting."
 }
