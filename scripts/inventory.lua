@@ -1,6 +1,10 @@
 local Inventory = {}
 
 Inventory.SortEntityInventory = function(entity)
+    if entity == nil then
+        return
+    end
+    
     --record request items into inventory, counts into counts
     local inventory = game.create_inventory(entity.request_slot_count)
     local counts = {}

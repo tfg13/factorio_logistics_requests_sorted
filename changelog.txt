@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 2023-11-26
+  Changes:
+    - Changed mod enable/disable setting to shortcut bar toggle button for quick access
+    - Added optional keybinding for the toggle, unset by default
+---------------------------------------------------------------------------------------------------
 Version: 1.1.1
 Date: 2021-10-05
   Changes:

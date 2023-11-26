@@ -1,6 +1,6 @@
 #!/usr/bin/sh
 
-VERSION=1.1.1
+VERSION=1.2.0
 
 TARGET=logistics_requests_sorted_$VERSION
 

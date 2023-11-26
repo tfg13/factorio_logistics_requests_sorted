@@ -1,13 +1,13 @@
 {
     "name": "logistics_requests_sorted",
-    "version": "1.1.1",
+    "version": "1.2.0",
     "title": "Logistics Requests Sorted",
     "author": "tulius",
     "contact": "",
     "homepage": "",
     "factorio_version": "1.1",
     "dependencies": [
-        "base >= 1.1.17"
+        "base >= 1.1.57"
     ],
-    "description": "Keeps your logistics requests permanently sorted. NOTE: If adding this to a running game, make any change to your logistics requests once to trigger the initial sorting."
+    "description": "Keeps your logistics requests permanently sorted"
 }
